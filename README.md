@@ -21,7 +21,7 @@
 
 ### Challenges and Difficulties Encountered
 - For this assignment, no major difficulties or challenges were encountered. However, I did have some troubles with getting used to GitHub and learning how to use GitHub. 
-- One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60*60*24) and adding date 1970-01-01
+- One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60x60x24) and adding date 1970-01-01
 ## Results
 
 ## Data Limitations
