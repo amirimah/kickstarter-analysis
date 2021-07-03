@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns performed in relation to their launch dates and their funding goals. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -20,8 +20,7 @@
 ![Plot 1](https://github.com/amirimah/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-- For this assignment, no major difficulties or challenges were encountered. However, I did have some troubles with getting used to GitHub and learning how to use GitHub. 
-- One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60x60x24) and adding date 1970-01-01
+- For this assignment, no major difficulties or challenges were encountered. However, One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60x60x24) and adding date 1970-01-01
 ## Results
 
 ### Data Limitations
