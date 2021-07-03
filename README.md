@@ -24,12 +24,10 @@
 - One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60x60x24) and adding date 1970-01-01
 ## Results
 
-## Data Limitations
+### Data Limitations
 - One of the limitations is that the data had outliers that could potentially screw the results. 
 
-	
-- What are some other possible tables and/or graphs that we could create?
+### Recommendations	
 
-	The Theatre has three subgategories: play, musical and spaces. In this study only outcomes based on goals for play was created. 
-	Maybe graphs for other subcategories (musical and spaces) could have been created to give us more insight about the campaign. 
-	Also, outliers could be removed and then we could re-do the study to see if the results would change. 
+- The Theatre has three subgategories: play, musical and spaces. In this study only outcomes based on goals for play was created. Maybe graphs for other subcategories (musical and spaces) could have been created to give us more insight about the campaign. 
+- Also, outliers could be removed and then we could re-do the study to see if the results would change. 
