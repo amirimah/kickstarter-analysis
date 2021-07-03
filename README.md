@@ -13,28 +13,20 @@
 - Surprisingly, May have roughly the same number of failed campaigns launched followed by July, October and June. Therefore,
 	it can be concluded that Theatre campaigns that have launched in month of May has both high number of success and failure. 
 	
+![Plot 2](https://github.com/amirimah/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 ### Analysis of Outcomes Based on Goals
 - It can be seen that the play campaigns are more successful when the goal is not much. As the goal increases, the percentage of successful campaigns decrease and the percentage of failed campaigns increase. However, from 25000-2999 to 40000-44999 goal, the percentage of successful play campaigns increase, and percentage of failed campaigns decrease. Then, from 45000 onwards, the trend reverses with more increase in failed campaigns.
 
 ![Plot 1](https://github.com/amirimah/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-
+- For this assignment, no major difficulties or challenges were encountered. However, I did have some troubles with getting used to GitHub and learning how to use GitHub. 
+- One possible challenge in this module is that the time stamps were difficult to read and a conversion is needed. However, this can be easily solved by converting the time stampes to dates by dividing the time stamps by (60*60*24) and adding date 1970-01-01
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Data Limitations
+- One of the limitations is that the data had outliers that could potentially screw the results. 
 
-	
-
-- What can you conclude about the Outcomes based on Goals?
-
-	It can be seen that the play campaigns are more successful when the goal is not much. As the goal increases, the percentage of 
-	successful campaigns decrease and the percentage of failed campaigns increase.
-	However, from 25000-2999 to 40000-44999 goal, the percentage of successful play campaigns increase, and percentage of failed 
-	campaigns decrease. Then, from 45000 onwards, the trend reverses with more increase in failed campaigns.	
-
-- What are some limitations of this dataset?
-	One of the limitations is that the data had outliers that could potentially screw the results. 
 	
 - What are some other possible tables and/or graphs that we could create?
 
